@@ -1,5 +1,10 @@
-# SaaS/App
+# ByteDesk Template Base
 
-Framework-neutral HTML source for an app or SaaS product site.
+Standardized framework-neutral HTML package for ByteDesk site templates.
 
-This repository is a ByteDesk standardized HTML template package. It is intentionally framework-neutral so consuming workspaces can convert it to Next.js or future supported runtimes.
+Required root files:
+
+- `bytedesk-template.json`
+- `index.html`
+
+Allowed source files are HTML, CSS, images, fonts, Markdown, and text. Do not include JavaScript, TypeScript, package manifests, framework config, `.git`, `.next`, or `node_modules`.
