@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="SaaS/App preview">\n  <rect width="1200" height="675" fill="#fbfbfd"/>\n  <rect x="0" y="0" width="1200" height="410" fill="#eef2ff"/>\n  <rect x="88" y="90" width="240" height="28" rx="14" fill="#7c3aed" opacity="0.28"/>\n  <rect x="88" y="158" width="760" height="72" rx="16" fill="#171923"/>\n  <rect x="88" y="250" width="650" height="30" rx="15" fill="#4b5565" opacity="0.35"/>\n  <rect x="88" y="316" width="168" height="56" rx="10" fill="#7c3aed"/>\n  <rect x="88" y="474" width="470" height="126" rx="14" fill="#ffffff" stroke="#dce2ef"/>\n  <rect x="612" y="474" width="470" height="126" rx="14" fill="#ffffff" stroke="#dce2ef"/>\n</svg>\n
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="SaaS/App preview">
+  <rect width="1200" height="675" fill="#fbfbfd"/>
+  <rect x="0" y="0" width="1200" height="410" fill="#eef2ff"/>
+  <rect x="88" y="90" width="240" height="28" rx="14" fill="#7c3aed" opacity="0.28"/>
+  <rect x="88" y="158" width="760" height="72" rx="16" fill="#171923"/>
+  <rect x="88" y="250" width="650" height="30" rx="15" fill="#4b5565" opacity="0.35"/>
+  <rect x="88" y="316" width="168" height="56" rx="10" fill="#7c3aed"/>
+  <rect x="88" y="474" width="470" height="126" rx="14" fill="#ffffff" stroke="#dce2ef"/>
+  <rect x="612" y="474" width="470" height="126" rx="14" fill="#ffffff" stroke="#dce2ef"/>
+</svg>
