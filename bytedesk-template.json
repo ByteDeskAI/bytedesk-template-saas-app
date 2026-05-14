@@ -1,1 +1,13 @@
-{\n  "schemaVersion": "1.0",\n  "slug": "saas-app",\n  "name": "SaaS/App",\n  "description": "Framework-neutral HTML source for an app or SaaS product site.",\n  "category": "SaaS",\n  "tags": ["html", "saas", "app"],\n  "version": "2026.05.14",\n  "supportedStacks": ["nextJs"],\n  "pages": [{ "path": "index.html", "title": "Home" }],\n  "previewImage": "assets/preview.svg",\n  "interviewGuide": "Ask about product positioning, plans, dashboard concepts, integrations, and signup goals."\n}\n
+{
+  "schemaVersion": "1.0",
+  "slug": "saas-app",
+  "name": "SaaS/App",
+  "description": "Framework-neutral HTML source for an app or SaaS product site.",
+  "category": "SaaS",
+  "tags": ["html", "saas", "app"],
+  "version": "2026.05.14",
+  "supportedStacks": ["nextJs"],
+  "pages": [{ "path": "index.html", "title": "Home" }],
+  "previewImage": "assets/preview.svg",
+  "interviewGuide": "Ask about product positioning, plans, dashboard concepts, integrations, and signup goals."
+}
